@@ -11,7 +11,7 @@ namespace PortfolioBuilder
         static void Main(string[] args)
         {
 
-            Console.WriteLine("This is v1.1");
+            Console.WriteLine("This is v1.2");
 
         }
     }
